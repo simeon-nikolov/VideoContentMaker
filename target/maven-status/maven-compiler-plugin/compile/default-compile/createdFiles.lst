@@ -1,0 +1,6 @@
+com\wordpress\m0bydig\vcm\App.class
+com\wordpress\m0bydig\vcm\replays\GameReplay.class
+com\wordpress\m0bydig\vcm\exceptions\HttpConnectionException.class
+com\wordpress\m0bydig\vcm\replays\Player.class
+com\wordpress\m0bydig\vcm\replays\ReplaysFinder.class
+com\wordpress\m0bydig\vcm\replays\Team.class
